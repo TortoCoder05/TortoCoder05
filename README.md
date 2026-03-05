@@ -1,12 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">, I'm Wajiha Begum</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=TortoCoder05">
-    <img src="https://komarev.com/ghpvc/?username=TortoCoder05&label=Profile%20views&color=00FFFF&style=flat-square" alt="TortoCoder05's profile views" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me 
