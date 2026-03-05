@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">, I'm Wajiha Begum</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer And Naat Reciter</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me 
