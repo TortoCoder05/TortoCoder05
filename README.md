@@ -35,11 +35,12 @@
 ## 🔗 Connect with Me
 
 <p align="center"><a href="https://www.linkedin.com/in/wajiha-begum-129166242/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/Wajiha99_" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:kwajiha176@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
-<a href="https://medium.com/@wajiha25"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a> 
-                                                                                                                
+<a href="https://medium.com/@wajiha25"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a>                                                                                                              
 </p>
 ## 💬 Quote
+<p>
 > Don't give up on the things you don't get. Instead, try harder until you reach your goals.
+</p>
 
 
 <picture>
