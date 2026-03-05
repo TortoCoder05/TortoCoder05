@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Wajiha Begum</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">, I'm Wajiha Begum</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 - Web Development, Data Structures And Algorithms and CP.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/TortoCoder05">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TortoCoder05&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="TortoCoder05's GitHub Stats" />
