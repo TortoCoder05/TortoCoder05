@@ -10,11 +10,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me 
-  🌱 Currently developing modern user interfaces with React.js.
-- 🤝 Let's Collaborate :
-  🎤 Nasheeds : I am looking for projects or groups focused on Nasheed singing.
-  ⚔️ CP Team: I am looking for a dedicated team to compete in programming contests.
-- 💬 Ask Me About : DSA & CP.
+- 🔭 I’m currently developing modern user interfaces with React.js.
+- 🌱 I’m currently learning SpringBoot.
+- 👯 I’m looking to collaborate on 🎤Nasheeds (Singing projects/groups) & ⚔️CP Team (Programming contests).
+- 💬 Ask me about DSA and Competitive Programming.
 
 
 ## 🧠 My Focus Areas
