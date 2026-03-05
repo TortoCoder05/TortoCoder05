@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning SpringBoot.
 - 👯 I’m looking to collaborate on 🎤Nasheeds (Singing projects/groups) & ⚔️CP Team (Programming contests).
 - 💬 Ask me about DSA and Competitive Programming.
-- 📫 Reach me at:<a href="mailto:kwajiha176@gmail.com" target="_blank">My Email</a>
+- 📫 Reach me at:<a href="mailto:kwajiha176@gmail.com" target="_blank"> My Email</a>
 
 
 ## 🧠 My Focus Areas
