@@ -9,10 +9,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🚀 Current Focus
-  🌱Learning: Developing modern user interfaces with React.js.
-  🏆 Competitive Programming: Solving complex problems and optimizing code.
+## 📌 About Me 
+  🌱 Currently developing modern user interfaces with React.js.
 - 🤝 Let's Collaborate :
   🎤 Nasheeds : I am looking for projects or groups focused on Nasheed singing.
   ⚔️ CP Team: I am looking for a dedicated team to compete in programming contests.
@@ -45,7 +43,7 @@
 ## 🔗 Connect with Me
 
 <p align="center"><a href="https://www.linkedin.com/in/wajiha-begum-129166242/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/Wajiha99_" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:kwajiha176@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
-<a href="https://www.medium.com/in/wajiha-begum-129166242/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a> 
+<a href="https://medium.com/@wajiha25"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a> 
                                                                                                                 
 </p>
 ## 💬 Quote
