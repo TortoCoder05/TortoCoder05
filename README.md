@@ -4,7 +4,7 @@
 
 ## 📌 About Me 
 - 🔭 I’m currently developing modern user interfaces with React.js.
-- 🌱 I’m currently learning SpringBoot.
+- 🌱 I’m currently learning SpringBoot and python.
 - 👯 I’m looking to collaborate on 🎤Nasheeds (Singing projects/groups) & ⚔️CP Team (Programming contests).
 - 💬 Ask me about DSA and Competitive Programming.
 - 📫 Reach me at:<a href="mailto:kwajiha176@gmail.com" target="_blank"> My Email</a>
