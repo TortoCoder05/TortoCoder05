@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/wajihaakhanofficial
 /?hl=en"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a> 
    <a href="https://youtube.com/@wajihakhanofficial?si=Ei78K7RTXEyT5xiT"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a> 
-   <a href="https://snapchat.com/@khanisi_xx?si=Ei78K7RTXEyT5xiT"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a> 
+   <a href="https://snapchat.com/@khanisi_xx?si=Ei78K7RTXEyT5xiT"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Snapchat.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a> 
   
   
   
